@@ -3,10 +3,10 @@ import { motion, useScroll, useTransform } from 'framer-motion';
 import { Search, Map, PenTool, Code, TestTube, Rocket } from 'lucide-react';
 
 const steps = [
-  { icon: <Search />, title: "Descubrimiento", desc: "Analizamos tu negocio, objetivos y competencia." },
-  { icon: <Map />, title: "Planificación", desc: "Definimos la arquitectura, tecnologías y cronograma." },
-  { icon: <PenTool />, title: "Diseño UX/UI", desc: "Creamos prototipos interactivos y diseño visual." },
-  { icon: <Code />, title: "Desarrollo", desc: "Programamos con las últimas tecnologías." },
+  { icon: <Search />, title: "Descubrimiento", desc: "Analizo tu negocio, objetivos y competencia." },
+  { icon: <Map />, title: "Planificación", desc: "Defino la arquitectura, tecnologías y cronograma." },
+  { icon: <PenTool />, title: "Diseño UX/UI", desc: "Creo prototipos interactivos y diseño visual." },
+  { icon: <Code />, title: "Desarrollo", desc: "Programo con las últimas tecnologías." },
   { icon: <TestTube />, title: "Pruebas", desc: "QA exhaustivo para garantizar calidad." },
   { icon: <Rocket />, title: "Implementación", desc: "Despliegue y monitoreo en producción." }
 ];
@@ -25,7 +25,7 @@ const Process = () => {
       <div className="container mx-auto px-6 lg:px-12 relative z-10">
         <div className="text-center mb-24">
           <h2 className="font-display text-4xl md:text-5xl font-bold mb-6">
-            Nuestro <span className="text-gradient">Proceso</span>
+            Mi <span className="text-gradient">Proceso</span>
           </h2>
           <p className="text-gray-400 max-w-2xl mx-auto text-lg">
             Una metodología probada para transformar tu visión en un producto digital excepcional, paso a paso.

@@ -155,7 +155,7 @@ const Portfolio = () => {
             transition={{ delay: 0.1 }}
             className="text-gray-400 max-w-2xl mx-auto text-lg"
           >
-            Proyectos reales que han transformado negocios. Diseñamos experiencias digitales que cautivan y convierten.
+            Proyectos reales que han transformado negocios. Diseño experiencias digitales que cautivan y convierten.
           </motion.p>
         </div>
 

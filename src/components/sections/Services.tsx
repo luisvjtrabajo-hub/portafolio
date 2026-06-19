@@ -70,7 +70,7 @@ const Services = () => {
             <span className="text-gradient">Impulsar tu Negocio</span>
           </h2>
           <p className="text-gray-400 max-w-2xl mx-auto text-lg">
-            Combinamos diseño excepcional con ingeniería de vanguardia para crear productos digitales que destacan.
+            Combino diseño excepcional con ingeniería de vanguardia para crear productos digitales que destacan.
           </p>
         </motion.div>
 

@@ -29,7 +29,7 @@ const Hero = () => {
     return () => ctx.revert();
   }, []);
 
-  const titleWords = "Transformamos Ideas en Software que Genera Resultados".split(" ");
+  const titleWords = "Transformo Ideas en Software que Genera Resultados".split(" ");
 
   return (
     <section 
@@ -103,7 +103,7 @@ const Hero = () => {
           transition={{ duration: 0.6, delay: 1.2 }}
           className="text-lg md:text-xl text-gray-400 max-w-3xl mx-auto mb-12 leading-relaxed"
         >
-          Diseñamos aplicaciones web, aplicaciones móviles y sistemas empresariales que optimizan procesos, aumentan productividad y ayudan a escalar negocios.
+          Diseño aplicaciones web, aplicaciones móviles y sistemas empresariales que optimizan procesos, aumentan productividad y ayudan a escalar negocios.
         </motion.p>
 
         <motion.div

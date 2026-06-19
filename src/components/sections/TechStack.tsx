@@ -11,7 +11,7 @@ const TechStack = () => {
     <section className="py-24 bg-[#050505] border-y border-white/5 overflow-hidden">
       <div className="container mx-auto px-6 lg:px-12 mb-12">
         <h2 className="text-center font-display text-2xl text-gray-400 font-medium">
-          Tecnologías que dominamos
+          Tecnologías que domino
         </h2>
       </div>
 

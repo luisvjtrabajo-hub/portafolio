@@ -10,13 +10,13 @@ const testimonials = [
   {
     name: "Carlos Mendoza",
     company: "Director Clínica GoKids",
-    text: "El equipo de VVWEB transformó por completo nuestra gestión de pacientes. La plataforma es intuitiva, rápida y nos ha ahorrado cientos de horas administrativas.",
+    text: "Luis transformó por completo nuestra gestión de pacientes. La plataforma es intuitiva, rápida y nos ha ahorrado cientos de horas administrativas.",
     avatar: "https://i.pravatar.cc/150?u=1"
   },
   {
     name: "Ana Silva",
     company: "CEO Afrivet",
-    text: "Buscábamos una agencia que entendiera nuestras necesidades, pero VVWEB superó todas las expectativas. El diseño es premium y el rendimiento impecable.",
+    text: "Buscábamos a alguien que entendiera nuestras necesidades, pero Luis superó todas las expectativas. El diseño es premium y el rendimiento impecable.",
     avatar: "https://i.pravatar.cc/150?u=2"
   },
   {
@@ -28,7 +28,7 @@ const testimonials = [
   {
     name: "María Paz",
     company: "Baby Hydro Spa",
-    text: "Profesionalismo puro. Desde la primera reunión hasta el lanzamiento, nos guiaron en cada paso. Nuestra web ahora refleja la calidad de nuestro servicio.",
+    text: "Profesionalismo puro. Desde la primera reunión hasta el lanzamiento, me guió en cada paso. Nuestra web ahora refleja la calidad de nuestro servicio.",
     avatar: "https://i.pravatar.cc/150?u=4"
   }
 ];
@@ -43,7 +43,7 @@ const Testimonials = () => {
       <div className="container mx-auto px-6 lg:px-12 relative z-10">
         <div className="text-center mb-20">
           <h2 className="font-display text-4xl md:text-5xl font-bold mb-6">
-            Lo que dicen <span className="text-gradient">nuestros clientes</span>
+            Lo que dicen <span className="text-gradient">mis clientes</span>
           </h2>
         </div>
 

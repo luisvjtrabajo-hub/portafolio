@@ -74,7 +74,7 @@ const Problems = () => {
                   La Solución
                 </h3>
                 <p className="text-xl text-gray-300 leading-relaxed mb-8">
-                  Nosotros convertimos esos problemas en <span className="text-white font-semibold">oportunidades</span> mediante software inteligente, escalable y diseñado para resultados.
+                  Yo convierto esos problemas en <span className="text-white font-semibold">oportunidades</span> mediante software inteligente, escalable y diseñado para resultados.
                 </p>
                 
                 <a 
@@ -83,7 +83,7 @@ const Problems = () => {
                   rel="noopener noreferrer"
                   className="inline-flex items-center gap-2 text-primary hover:text-white transition-colors font-medium text-lg"
                 >
-                  Descubre cómo podemos ayudarte <ArrowRight className="w-5 h-5" />
+                  Descubre cómo puedo ayudarte <ArrowRight className="w-5 h-5" />
                 </a>
               </div>
             </motion.div>
