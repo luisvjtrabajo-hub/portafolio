@@ -14,11 +14,11 @@ const Footer = () => {
             <a href="#home" className="flex items-center gap-2 mb-6">
               <Code2 className="w-8 h-8 text-primary" />
               <span className="font-display font-bold text-3xl tracking-tighter text-white">
-                VV<span className="text-primary">WEB</span>
+                Luis <span className="text-primary">Videla</span>
               </span>
             </a>
             <p className="text-gray-400 max-w-sm mb-8 text-lg">
-              Desarrollo de Software, Aplicaciones Web y Soluciones Empresariales. Transformamos ideas complejas en experiencias digitales excepcionales.
+              Desarrollo de Software, Aplicaciones Web y Soluciones Empresariales. Transformo ideas complejas en experiencias digitales excepcionales.
             </p>
             <div className="flex gap-4">
               <a href="#" className="w-10 h-10 rounded-full glass flex items-center justify-center hover:bg-white/10 hover:text-primary transition-all hover:scale-110">
@@ -56,7 +56,7 @@ const Footer = () => {
 
         <div className="pt-8 border-t border-white/10 flex flex-col md:flex-row items-center justify-between gap-4">
           <p className="text-gray-500 text-sm">
-            © {new Date().getFullYear()} VVWEB. Todos los derechos reservados.
+            © {new Date().getFullYear()} Luis Videla. Todos los derechos reservados.
           </p>
           <div className="flex gap-6 text-sm text-gray-500">
             <a href="#" className="hover:text-white transition-colors">Términos de Servicio</a>

@@ -33,7 +33,7 @@ const Navbar = () => {
         <a href="#home" className="flex items-center gap-2 group">
           <Code2 className="w-8 h-8 text-primary group-hover:text-accent transition-colors" />
           <span className="font-display font-bold text-2xl tracking-tighter text-white">
-            VV<span className="text-primary">WEB</span>
+            Luis <span className="text-primary">Videla</span>
           </span>
         </a>
 
